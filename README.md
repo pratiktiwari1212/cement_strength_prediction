@@ -9,6 +9,9 @@
 
 ![](images/homepage.jpg)
 
+## Folder Structure
+![](images/Annotation%202020-07-23%20194837.jpg)
+
 ## Architecture
 ![](images/arch.jpg)
 
