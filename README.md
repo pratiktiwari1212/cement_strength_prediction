@@ -1,6 +1,6 @@
 # cement_strength_prediction
 
-* build a regression model pipeline to predict the concrete compressive strength based on the different features in the training data. Also created an portal for the client to use and predict on the basis of new data
+* build an regression model pipeline to predict the concrete compressive strength based on the different features in the training data. Also created an portal for the client to use and predict on the basis of new data
 
 ## Landing page
 ![](images/landingpage.jpg)
